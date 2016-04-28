@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'xml-simple'
   s.add_dependency 'builder'
   s.add_dependency 'mime-types'
-  s.add_dependency 'activesupport', '= 4.2.4'
+  s.add_dependency 'activesupport', '>= 4.2.0'
 
 end
